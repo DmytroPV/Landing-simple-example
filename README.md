@@ -1,12 +1,9 @@
-## Landing-example
-## HTML5 
-## CSS 
-## JS
-Responsive web design
-Using flexbox containers
-Position absolute and relative
-CSS pseudo-class
-Hamburger Menu
+## Landing-example, HTML5, CSS, JS
+Responsive web design /
+Using flexbox containers /
+Position absolute and relative /
+CSS pseudo-class /
+Hamburger Menu /
 HTML5 video tag, adding attributes using JS, starting video when clicking on another block
 
 ![Landing ODIGO 1](https://user-images.githubusercontent.com/119622477/206186509-b288e6c5-0e7a-4bbb-9804-970e286a7d13.png)
