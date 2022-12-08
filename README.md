@@ -6,7 +6,7 @@
 - Hamburger Menu /
 - HTML5 video tag, adding attributes using JS, starting video when clicking on another block /
 
-##### The content used in this example is taken from materials freely available on the Internet!
+##### The content in this example is used for educational purposes from materials that are freely available on the Internet!
 
 ![Landing ODIGO 1](https://user-images.githubusercontent.com/119622477/206289814-f0c0a85f-2b02-4612-b919-94dd22847a9a.png)
 ![Landing ODIGO 5](https://user-images.githubusercontent.com/119622477/206289850-cd6c70c5-0614-4346-84c9-efac116ab03c.png)
