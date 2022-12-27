@@ -432,7 +432,6 @@ input[type="radio"]:checked {
     z-index: 2;
     border-radius: 5%;
     box-shadow: 0 0 19px 3px #000;
-    margin: 1px;
 }
 
 /* ================================ PREFECTURE  ============== */
